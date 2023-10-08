@@ -1,4 +1,5 @@
-[!(https://github.com/debmalyamondal/debmalyamondal/blob/main/gamer.gif)]
+![](https://github.com/debmalyamondal/debmalyamondal/blob/main/gamer.gif)
+
 
 # 💫 About Me:
 I am Debmalya Mondal, a passionate UI/UX and motion graphic designer with a thirst for knowledge. I am on a continuous journey of self-improvement, expanding my skills in DSA (Data Structures and Algorithms), competitive coding, web development, and much more. My dedication to design and my eagerness to explore the world of technology drive me to create innovative and user-centric experiences in both the digital and visual realms.
