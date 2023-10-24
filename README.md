@@ -1,6 +1,6 @@
 ![](https://github.com/debmalyamondal/debmalyamondal/blob/main/gamer.gif)
 
-
+[![An image of @debmalyamondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal)
 # 💫 About Me:
 I am Debmalya Mondal, a passionate UI/UX and motion graphic designer with a thirst for knowledge. I am on a continuous journey of self-improvement, expanding my skills in DSA (Data Structures and Algorithms), competitive coding, web development, and much more. My dedication to design and my eagerness to explore the world of technology drive me to create innovative and user-centric experiences in both the digital and visual realms.
 
