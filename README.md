@@ -1,4 +1,4 @@
-![](https://github.com/debmalyamondal/debmalyamondal/blob/main/gamer.gif)
+!!!!![](https://github.com/debmalyamondal/debmalyamondal/blob/main/gamer.gif)
 
 [![An image of @debmalyamondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal)
 # 💫 About Me:
