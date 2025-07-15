@@ -21,6 +21,12 @@
 **Fun Fact:** I believe that good design is invisible, and great design is empowering!
 ###
 
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+###
+
 <h1 align="left">⚙️ Tool Stack</h1>
 
 ###
@@ -103,9 +109,6 @@
   </a>
 </div>
 
-<div align = "center">
-  <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph-dark.svg">
