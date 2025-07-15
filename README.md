@@ -82,6 +82,6 @@ I am Debmalya Mondal, a passionate UI/UX and motion graphic designer with a thir
 </div>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debmalyamondal&label=Profile%20views&color=0e75b6&style=flat" alt="debmalyamondal" /> </p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
