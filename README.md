@@ -1,16 +1,17 @@
-
-
 [![An image of @debmalyamondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal)
 
 <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 
+
 <h1 align="left">👋 About Me</h1>
+
+<img width="350" align ="right" src="https://github.com/user-attachments/assets/0cf3ecfa-22b0-46ac-b14a-4ec29a896327"/>
 
 **Greeting:** Hi there! I'm Debmalya Mondal
 
 **Currently Working On:** exciting UI/UX projects and building intuitive frontend experiences
 
-**Currently Learning:** advanced animation techniques with CSS and exploring new design tools like Figma
+**Currently Learning:** New tech stacks and exploring new design tools.
 
 **Looking to Collaborate On:** open-source design systems, accessible web interfaces, or innovative frontend challenges
 
@@ -18,10 +19,11 @@
 
 **Ask Me About:** responsive design, user experience principles, modern CSS, or bringing designs to life with code
 
-**How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal) or shoot me an [email](debmalya.india@gmail.com)!
+**How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal) or shoot me an [email](mailto:debmalya.india@gmail.com)!
 
 **Fun Fact:** I believe that good design is invisible, and great design is empowering!
 ###
+
 
 <div align = "center">
   <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -90,7 +92,6 @@
 </div>
 </div>
 
-
 ###
 
 <h1 align = "left">📰 Blogs</h1>
@@ -112,11 +113,13 @@
 </div>
 
 
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
 </picture>
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 
 ###
 
@@ -125,12 +128,14 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="55" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="55" height="40" alt="dribbble logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="55" height="40" alt="behance logo"  />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-youtube-is-an-american-video-sharing-and-now-googles-subsidiaries-logo-shadow-tal-revivo.png" alt="youtube"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/medium-logo.png" alt="medium-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/credly.png" alt="credly"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/dribbble.png" alt="dribbble"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/behance.png" alt="behance"/>
 </div>
 
 ###
@@ -140,9 +145,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3176df6we5mhjh2dw6ttjexrchei&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
