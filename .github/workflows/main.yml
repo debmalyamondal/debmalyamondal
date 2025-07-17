@@ -2,7 +2,7 @@ name: Generate Pac-Man Graph
 
 on:
   schedule:
-    - cron: "15 6 * * *"  # runs every 24 hours
+    - cron: "0 */12 * * *"  # runs every 24 hours
   workflow_dispatch:
   push:
     branches:
