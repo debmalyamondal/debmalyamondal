@@ -29,6 +29,8 @@
   <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
+
 ###
 
 <h1 align="left">⚙️ Tool Stack</h1>
@@ -114,12 +116,13 @@
 
 
 ###
+
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
 </picture>
-<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 
 ###
 
