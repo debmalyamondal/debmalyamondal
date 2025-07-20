@@ -167,6 +167,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=debmalyamondal.debmalyamondal&right_color=cornflowerblue&left_text=Visitors%20Came%20and%20Gone"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=debmalyamondal.debmalyamondal&right_color=cornflowerblue&left_text=Visitors"  />
 </div>
 
